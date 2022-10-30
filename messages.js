@@ -26,7 +26,7 @@ const messages = [
   },
   {
     name: "Rizky Hasanuddin",
-    imageUrl: "/assets/images/avatar-rizky-hasanuddin.webp",
+    imageUrl: "./assets/images/avatar-rizky-hasanuddin.webp",
     status: "read",
     message: `sent you a private message`,
     privateMsg: `Hello, thanks for setting up the Chess Club. I've been a member for a few weeks now and I'm already having lots of fun and improving my game.`,
